@@ -2,22 +2,8 @@
 
 This template is meant to provide you with a base website that uses Ruby on Rails as an API and Vue as a reactive front end. This setup is perfect for very quickly prototpying SPA web applications, leveraging the ease of bulding single file Vue components, fast styling with Bootstrap Vue, and quick API scaffolding with ActiveRecord.
 
-Things you may want to cover:
+## Included:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* [Bootstrap Vue](https://bootstrap-vue.js.org/) for ease of creating navigation, site grids, layouts, and more
+* [Vue Generators](https://github.com/GoodMeasuresLLC/vue-generators) for easily scaffolding powerful single file Vue components, Vuex stores, and more
+* [Devise](https://github.com/heartcombo/devise) for easy, straightforward authentication
