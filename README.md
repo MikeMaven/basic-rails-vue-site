@@ -7,3 +7,5 @@ This template is meant to provide you with a base website that uses Ruby on Rail
 * [Bootstrap Vue](https://bootstrap-vue.js.org/) for ease of creating navigation, site grids, layouts, and more
 * [Vue Generators](https://github.com/GoodMeasuresLLC/vue-generators) for easily scaffolding powerful single file Vue components, Vuex stores, and more
 * [Devise](https://github.com/heartcombo/devise) for easy, straightforward authentication
+* Preconfigured for PostgreSQL 11
+* HAML syntax for rails view templates
