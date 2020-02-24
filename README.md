@@ -9,3 +9,11 @@ This template is meant to provide you with a base website that uses Ruby on Rail
 * [Devise](https://github.com/heartcombo/devise) for easy, straightforward authentication
 * Preconfigured for PostgreSQL 11
 * HAML syntax for rails view templates
+
+## To Run:
+
+* First, update the `config/database.yml` file and rename the databases to the title of your project
+* Run `bundle install`
+* Run `yarn install`
+* Run `rails server`
+* In a new tab, run `yarn start`
