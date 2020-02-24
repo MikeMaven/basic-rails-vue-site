@@ -13,6 +13,7 @@ This template is meant to provide you with a base website that uses Ruby on Rail
 ## To Run:
 
 * First, update the `config/database.yml` file and rename the databases to the title of your project
+* Initialize your database by running `rake db:create`
 * Run `bundle install`
 * Run `yarn install`
 * Run `rails server`
