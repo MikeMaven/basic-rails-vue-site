@@ -1,6 +1,8 @@
 <template>
   <div>
-    
+    <b-jumbotron header="Hello World from the Index.vue component" lead="Start customizing your site from here.">
+      <p>Visit github.com/mikemaven for more info.</p>
+    </b-jumbotron>
   </div>
 </template>
 

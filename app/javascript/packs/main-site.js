@@ -7,6 +7,7 @@ import Index from '../components/main-site/Index.vue'
 
 //Bootstrap 4 components
 import BootstrapVue from 'bootstrap-vue'
+import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 
 const router = new VueRouter({
