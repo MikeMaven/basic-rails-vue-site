@@ -17,4 +17,4 @@ This template is meant to provide you with a base website that uses Ruby on Rail
 * Run `bundle install`
 * Run `yarn install`
 * Run `rails server`
-* In a new tab, run `bin/webpack-dev-server`
+* In a new tab, run `yarn run start`
